@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "India unveils new river-link roadmap to secure water for drought-prone regions",
+    "slug": "india-river-link-water-security-roadmap",
+    "category": "India",
+    "date": "2026-02-10",
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1600&q=80",
+    "content": "The Union government has presented a phased river-link strategy focused on improving irrigation and drinking water access in vulnerable districts. Officials said the first stage will prioritize inter-state agreements, environmental safeguards, and community-led monitoring. Policy analysts say the plan could reduce water stress if projects remain transparent and scientifically validated.",
+    "tags": ["India", "Policy", "Water"]
+  },
+  {
+    "id": 2,
+    "title": "AI labs in Bengaluru launch multilingual model tuned for Indian public services",
+    "slug": "bengaluru-ai-multilingual-public-services-model",
+    "category": "AI",
+    "date": "2026-02-09",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80",
+    "content": "A consortium of startups and academic researchers has released a multilingual AI model designed for grievance portals, healthcare triage, and citizen support in regional languages. Developers claim the model improves accuracy on low-resource dialects and includes bias evaluation checkpoints. Industry observers call it a significant step in building sovereign AI infrastructure.",
+    "tags": ["AI", "India", "Innovation"]
+  },
+  {
+    "id": 3,
+    "title": "Global climate summit reaches breakthrough on coastal resilience financing",
+    "slug": "global-climate-summit-coastal-resilience-finance",
+    "category": "World",
+    "date": "2026-02-08",
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1600&q=80",
+    "content": "Delegations at the global climate summit have agreed to a financing framework aimed at supporting coastal defenses in vulnerable nations. The package includes blended funding and a rapid disbursal mechanism for extreme weather emergencies. Experts warn implementation speed will determine whether the framework translates into measurable adaptation outcomes.",
+    "tags": ["World", "Climate", "Policy"]
+  },
+  {
+    "id": 4,
+    "title": "Indian startup corridor sees record seed funding in deep-tech and mobility",
+    "slug": "india-startup-corridor-record-seed-funding",
+    "category": "Tech",
+    "date": "2026-02-07",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1600&q=80",
+    "content": "Early-stage investors poured fresh capital into deep-tech, EV supply chain, and logistics software startups this quarter. Founders say improved prototype grants and faster compliance workflows have boosted investor confidence. Analysts note that disciplined burn rates and export-oriented product strategy remain central to long-term sustainability.",
+    "tags": ["Tech", "Startup", "Funding"]
+  },
+  {
+    "id": 5,
+    "title": "India and Southeast Asia expand digital trade corridor with secure payment rails",
+    "slug": "india-southeast-asia-digital-trade-corridor",
+    "category": "World",
+    "date": "2026-02-06",
+    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1600&q=80",
+    "content": "Trade ministries announced a digital trade corridor to simplify customs workflows and enable low-friction cross-border payments for SMEs. The initiative includes standards for invoice authentication and fraud monitoring. Economists say the corridor could unlock significant gains for services exports and regional digital commerce.",
+    "tags": ["World", "Trade", "India"]
+  },
+  {
+    "id": 6,
+    "title": "New chip design startup from Hyderabad targets efficient AI inference for edge devices",
+    "slug": "hyderabad-chip-startup-ai-edge-inference",
+    "category": "AI",
+    "date": "2026-02-05",
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=1600&q=80",
+    "content": "A Hyderabad-based semiconductor startup has introduced an edge AI chip architecture optimized for low power and real-time inference. The company says pilot deployments in manufacturing and smart mobility are underway with local partners. Sector experts believe domestic chip design momentum could strengthen India’s AI supply chain resilience.",
+    "tags": ["AI", "Tech", "Startup"]
+  }
+]
